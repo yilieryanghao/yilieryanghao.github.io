@@ -48,10 +48,10 @@ body{
 .header-section {
   background: #deecdf;
   text-align: center;
-    min-height: 400px;
+    min-height: 500px;
 }
 .header-section img {
-  margin-top: 7em;
+  margin-top: 5em;
 }
 .header-section h1 {
   font-family: 'Nunito-Bold';
